@@ -1,0 +1,7 @@
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\bin\Debug\ListaNaUnha.exe.config
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\bin\Debug\ListaNaUnha.exe
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\bin\Debug\ListaNaUnha.pdb
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\obj\Debug\ListaNaUnha.csprojAssemblyReference.cache
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\obj\Debug\ListaNaUnha.csproj.CoreCompileInputs.cache
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\obj\Debug\ListaNaUnha.exe
+c:\users\computer\source\repos\ListaNaUnha\ListaNaUnha\obj\Debug\ListaNaUnha.pdb
